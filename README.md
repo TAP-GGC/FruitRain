@@ -7,7 +7,7 @@ Fruit Rain is an educational game designed to teach students of all ages the fun
 
 This project was developed by members of the Technology Ambassadors Program, a program at GGC whose goal is to encourage others to seek careers in technology and show them that programming isn't as scary as it may seem at first. https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program
 
-A short video demo of the project can be found here: *insert link to media video*
+A short video demo of the project can be found here: https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/IMG_2452.mp4
 
 ## Team:
 The Team behind this project consists of-
