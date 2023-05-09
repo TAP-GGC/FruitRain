@@ -33,7 +33,7 @@ TAP Expo Spring 2023
 ## Technology
 
 The program was developed using Java, with Processing as our IDE (Integrated Development Environment) https://processing.org/ . Inputs are handeled using a Makey Makey controller, a variety of fruit, and a Makey Makey controller https://makeymakey.com/ .
-*Insert picture of controller*
+https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/TAP2.png
 
 ## Project Setup/Installation
 
