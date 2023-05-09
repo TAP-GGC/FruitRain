@@ -15,7 +15,7 @@ Justin Portillo
 Dionys  Del Rosario
 Chloe Vedrine
 
-https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/TAP%20-%20Media.docx
+https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/TAP_Team.png
 
 The class was instructed by-
 Dr. Xin Xu
