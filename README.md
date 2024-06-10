@@ -1,96 +1,63 @@
-# FruitRain
+# About Fruit Rain
 
-## Project Title: Fruit Rain
+Fruit Rain is an educational game designed to teach students of all ages the fundamentals of Java programming. Players answer questions by tapping the falling fruit matching the correct answer. The game utilizes a Makey-Makey controller with fruits and alligator connectors. This approach increases students' enthusiasm towards programming.
 
-## Description:
-Fruit Rain is an educational game designed to teach students of all ages the fundamentals of Java programming. Players will be asked a series of questions, and answers can be found on the fruit falling from the top of the screen. Players answer these questions by tapping the fruit that matches the one in the game that they believe has the correct answer. This controller setup is achieved using a Makey-Makey controller; an apple, orange, banana, and lime; and alligator connectors. This approach to learning has been effective at increasing students' enthusiasm towards programming.
+A short video demo of the project can be found [here](https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/IMG_2452.mp4).
 
-This project was developed by members of the Technology Ambassadors Program, a program at GGC whose goal is to encourage others to seek careers in technology and show them that programming isn't as scary as it may seem at first. https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program
+## Description
+- **Difficult Level:** Hard
+- **Target Audience:** 6th Grade to college.
+- **Duration of workshop:** 45 to 60 minutes.
+- **Needed Materials:** Makey-Makey controller, fruits (apple, orange, banana, lime), alligator connectors.
+- **Learning Outcomes:** Fruit Rain aims to teach programming fundamentals in a fun and engaging way. Through interactive gameplay, participants learn about variables, strings, conditionals, and arithmetic operators. The project encourages students to explore programming concepts and consider careers in technology.
+- **Workshop Description:** Participants will engage in hands-on activities using the Makey-Makey controller and fruits. They will learn about variables, strings, conditionals, and arithmetic operators through gameplay. The workshop includes a demonstration of the game's code and encourages participants to create their own quizzes. Fruit Rain is part of the Technology Ambassadors Program (TAP), which aims to promote technology education and empower students to pursue careers in IT.
 
-A short video demo of the project can be found here: https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/IMG_2452.mp4
+## Team
+The team behind this project consists of:
+- Justin Portillo
+- Dionys Del Rosario
+- Chloe Vedrine
 
-## Team:
-The Team behind this project consists of-
-Justin Portillo
-Dionys  Del Rosario
-Chloe Vedrine
+![Team Photo](https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/TAP_Team.png)
 
-https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/TAP_Team.png
-
-The class was instructed by-
-Dr. Xin Xu
-Dr. Wei Jin
+## Instructors
+- Dr. Xin Xu
+- Dr. Wei Jin
 
 ## Publications
-CREATE Symposium Spring 2023 Presentation
-STARS Poster Spring 2023 Presentation
+- CREATE Symposium Spring 2023 Presentation
+- STARS Poster Spring 2023 Presentation
 
 ## Outreach Activities
-Atlanta Science Festival Spring 2023
-TAP Expo Spring 2023
-2 Workshops - ITEC 1001, ITEC 2110
+- Atlanta Science Festival Spring 2023
+- TAP Expo Spring 2023
+- 2 Workshops - ITEC 1001, ITEC 2110
 
 ## Technology
+The game was developed using Java with Processing as the IDE ([Processing](https://processing.org/)). Inputs are handled using a Makey Makey controller and various fruits.
 
-The program was developed using Java, with Processing as our IDE (Integrated Development Environment) https://processing.org/ . Inputs are handeled using a Makey Makey controller, a variety of fruit, and a Makey Makey controller https://makeymakey.com/ .
-https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/TAP2.png
+![TAP2](https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/TAP2.png)
+
+### Similar Project: Slice It
+Slice It is another educational game developed by the Technology Ambassadors Program. It aims to teach problem-solving skills and spatial awareness through slicing objects into smaller pieces. More information about Slice It can be found [here](#) (insert link).
 
 ## Project Setup/Installation
-
-Download all of the files from GitHub as a zip file.
-
-You will need to open the FruitRain.pde file and go to around line 448 and
-paste in the file location of QuizQuestions.csv. You can do this by locating them in
-your file explorer, right clicking the section that shows all of the folder names,
-and clicking "Copy address". Then paste the addresses in place of the pre-written
-addresses, add an extra "\" to each one present in the new address, followed by two
-backslashes and the file name.
-
-E.g.: C:\\Users\\username\\Downloads\\FruitRain-FolderFruitRain\\QuizQuestions.csv
-
-Confirm that the file paths work as intended; if there is something wrong, an error
-should occur upon attempting to run the program.
-
-While you have this file open, you will need to download the Sound library;
-to do so, click on Sketch, then hover over Import Library, then click Add Library
-(depending on your version of Processing it may be a different option).
-Search for the Sound Library and download. If no errors occur when attempting to
-play the music, then you've done this step correctly. You will also need to download the GifAnimation library.
-
-Hook up the Makey-Makey controller to your PC and connect an apple, orange,
-banana, and lime to the controller's up, down, left, and right dpad areas respectively
-with alligator connectors. These dpad directions are automatically mapped to the corresponding
-arrow keys on your keyboard, so no further configuration is required. If fruit and/or makey-makey controllers are not available, we recommend colored stickers on the arrow keys instead, as there is otherwise no indication of what to press.
-
-Connect the wrist-strap to the ground connectors on the controller.
+1. Download all files from GitHub as a zip file.
+2. Open the FruitRain.pde file and update the file location of QuizQuestions.csv around line 447.
+3. Download the Sound library and GifAnimation library in Processing.
+4. Connect the Makey-Makey controller to your PC and wire fruits to the controller's directional inputs.
+5. Connect the wrist-strap to the ground connectors on the controller.
 
 ## Usage
+- Players tap the fruit corresponding to their guess for a given question.
+- The game utilizes fruits connected to the Makey-Makey controller, with each fruit mapped to a directional input.
 
-Have the player put on the wrist-strap so that they can play the game. The electricity sent through the ground wire is very weak, so there shouldn't be any risk of electrocution. Consult any instructional documents that came with the controller if you have any concerns.
+## Additional Notes
+- The game was designed to teach programming fundamentals but can be repurposed for other subjects.
+- Players can create their own quizzes by following the provided format in csv files.
+- The game's code can be modified for further customization.
+- The project aims to break down stigmas surrounding technology and make programming accessible to all.
 
-Players will tap the fruit that corresponds with their guess to a provided question.
-We suggest printing out a word document briefly explaining the following java concepts:
-variables, strings (including concatenation), and conditionals (if, else, and
-while loops).
+---
 
-Avoid holding onto the fruit, doing so will cause the directional input to be read several times. Simply tap the fruit very briefly.
-
-## Additional Notes:
-
-The variables2.csv file features questions relating to a wider variety of arithmetic and assignment operators.
-To change the quizzes you wish to use, change the file name(s) listed in the keyPressed() method on line 294.
-We would also recommend changing lines 189, 191, 193, and/or 195 accordingly.
-
-While this game was originally developed to teach the fundamentals of programming, because we used csv files to store the quizzes, it can easily be re-purposed to teach any other subject, such as Mathematics, Chemistry, History, Trivia, etc.
-
-If you want to create your own quiz for the game (be it to teach programming or any other subject), create a csv file and follow the format of the other files.
-We recommend doing this in excel or google sheets because the rows are more clear that way. The correct answer
-choice is notated in what would be their arraylist index, as in you start counting from 0 rather than 1.
-i.e. if the correct answer is the second choice, put a "1" in the last used cell of that row.
-
-When building the quiz, you have the choice of four answers or two. For four answers, set the third cell of the row to 1. For two answers, set it to 2.
-The second column is used for question IDs, the program itself never uses these values, they're simply meant for your own organization.
-
-The file names in lines 189-195 must match the quizzes you intend your players to try to complete.
-
-**Notes: Workshop does not have started code 
+**Notes: Workshop does not have started code Fruit Rain CHLOE VEDRINE | JUSTIN PORTILLO | DION DEL ROSARIO Teaching Coding with Fruit. SPRING 2023 GEORGIA GWINNET COLLEGE**
