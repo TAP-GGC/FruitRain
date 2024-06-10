@@ -2,7 +2,7 @@
 
 Fruit Rain is an educational game designed to teach students of all ages the fundamentals of Java programming. Players answer questions by tapping the falling fruit matching the correct answer. The game utilizes a Makey-Makey controller with fruits and alligator connectors. This approach increases students' enthusiasm towards programming.
 
-A short video demo of the project can be found [here](https://github.com/TechAmbassadors-GGC/FruitRain/blob/main/media/IMG_2452.mp4).
+A short video demo of the project can be found [here]().
 
 ## Description
 - **Difficult Level:** Hard
