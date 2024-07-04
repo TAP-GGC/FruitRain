@@ -13,6 +13,10 @@
  *  setup():  Initilize variables when app is started, only one time.
  *  draw():   Update variables. Executed over and over again.
  */
+ 
+ /**
+ PLEASE GO TO LINE 462 AND FILL IN THE FILE DIRECTORY 
+ */
 import java.util.ArrayList;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -243,7 +247,7 @@ void draw() {
           correct = questions.get(quizIndex).getCorrect(); // Get the correct answer index
 
           fill(RASPBERRY);
-          textSize(50); // Set text size for questions
+          textSize(35); // Set text size for questions
           text(questions.get(quizIndex).getText(), 375, 100); // Display the question
 
           // Display the answer options
@@ -455,7 +459,7 @@ public ArrayList<Question> loadQuestions() {
   ArrayList<Question> questions = new ArrayList<Question>();
   while(true) {
       try {
-        Scanner inputFile = new Scanner(new File("C:\\Users\\Blaze\\Downloads\\Homework\\FruitRain-Folder\\code\\FruitRain\\" + quizName)); 
+        Scanner inputFile = new Scanner(new File("C:\\Users\\Blaze\\Downloads\\Homework\\FruitRain-Folder\\code\\FruitRain\\" + quizName));   //Enter the file directory here and make sure to double slash ex: C:\\Users\\Blaze\\Downloads\\Homework\\FruitRain-Folder\\code\\FruitRain\\
         String regex = "(\\s)*,(\\s)*";
         inputFile.useDelimiter(regex);
         int index = 0;
