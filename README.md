@@ -27,9 +27,9 @@ The team behind this project consists of:
 ## Publications
 - CREATE Symposium Spring 2023 Presentation
 - STARS Poster Spring 2023 Presentation
+- Justin Portillo (jportillo5@ggc.edu), Chloe Vedrine (cvedrine@ggc.edu) Advisors: Dr. Wei Jin, Dr. Xin Xu - Department of Information Technology, Georgia Gwinnett College, Lawrenceville, GA
 - ![Poster](https://github.com/TAP-GGC/FruitRain/blob/main/documents/publications/FruitRain-CCSC2023-Poster.pdf)
 - ![CCSC Abstract](https://github.com/TAP-GGC/FruitRain/blob/main/documents/publications/FruitRain-CCSC2023Abstract.pdf)
-- Justin Portillo (jportillo5@ggc.edu), Chloe Vedrine (cvedrine@ggc.edu) Advisors: Dr. Wei Jin, Dr. Xin Xu - Department of Information Technology, Georgia Gwinnett College, Lawrenceville, GA
 
 ## Outreach Activities
 - Atlanta Science Festival Spring 2023
