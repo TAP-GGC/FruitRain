@@ -66,4 +66,4 @@ Slice It is another educational game developed by the Technology Ambassadors Pro
 
 ---
 
-**Notes: Workshop does not have started code Fruit Rain CHLOE VEDRINE | JUSTIN PORTILLO | DION DEL ROSARIO Teaching Coding with Fruit. SPRING 2023 GEORGIA GWINNET COLLEGE**
+**Notes: Workshop does not have started code Fruit Rain CHLOE VEDRINE | JUSTIN PORTILLO | DION DEL ROSARIO Teaching Coding with Fruit. SPRING 2023 GEORGIA GWINNETT COLLEGE**
