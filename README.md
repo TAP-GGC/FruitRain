@@ -49,7 +49,7 @@ Slice It is another educational game developed by the Technology Ambassadors Pro
 2. **Game install**
   -[Game install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20runInstructions.mp4)
   -[Game install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/SetupPDF.pdf)
-3. **Makey Makey install (Oprional)**
+3. **Makey Makey install (Optional)**
   -[Makey Makey install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Makey%20Makey%20Set%20up.mp4)
 
 ## Usage
