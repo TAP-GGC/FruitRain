@@ -27,7 +27,8 @@ The team behind this project consists of:
 ## Publications
 - CREATE Symposium Spring 2023 Presentation
 - STARS Poster Spring 2023 Presentation
-- Justin Portillo (jportillo5@ggc.edu), Chloe Vedrine (cvedrine@ggc.edu) Advisors: Dr. Wei Jin, Dr. Xin Xu - Department of Information Technology, Georgia Gwinnett College, Lawrenceville, GA
+- Justin Portillo and Chloe Vedrine. Advisors: Wei Jin and Xin Xu. “Tangible Fruits and a Reconfigurable Game Engine for Technology Outreach”. The 37th Annual Consortium for Computing Sciences in Colleges (CCSC) Southeastern Conference, November 3 – 4, 2023,  Coastal Carolina University, Conway, SC. [CCSC Abstract](https://github.com/TAP-GGC/FruitRain/blob/main/documents/publications/FruitRain-CCSC2023Abstract.pdf), [Poster](https://github.com/TAP-GGC/FruitRain/blob/main/documents/publications/FruitRain-CCSC2023-Poster.pdf)     
+ 
 
 ## Outreach Activities
 - Atlanta Science Festival Spring 2023
@@ -43,11 +44,19 @@ The game was developed using Java with Processing as the IDE ([Processing](https
 Slice It is another educational game developed by the Technology Ambassadors Program. It aims to teach problem-solving skills and spatial awareness through slicing objects into smaller pieces. More information about Slice It can be found [here](#) (insert link).
 
 ## Project Setup/Installation
-1. Download all files from GitHub as a zip file.
-2. Open the FruitRain.pde file and update the file location of QuizQuestions.csv around line 447.
-3. Download the Sound library and GifAnimation library in Processing.
-4. Connect the Makey-Makey controller to your PC and wire fruits to the controller's directional inputs.
-5. Connect the wrist-strap to the ground connectors on the controller.
+1. **IDE install**
+   - [IDE install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20installProcessing.mp4)
+   - [IDE install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/ProcessingPDF.pdf)
+2. **FruitRain install**
+   - [FruitRain install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20runInstructions.mp4)
+   - [FruitRain install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/SetupPDF.pdf)
+3. **Makey Makey install (Optional)**
+   - [Video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Makey%20Makey%20Set%20up.mp4)
+4. **Workshop PowerPoint**
+   - [Workshop Powerpoint](https://github.com/TAP-GGC/FruitRain/blob/main/documents/workshop/Fruit%20Rain%20-%20Workshop%20Presentation.pptx)
+5. **Code Walkthrough**
+   - [Code Walkthrough](https://github.com/TAP-GGC/FruitRain/blob/main/documents/workshop/Fruit%20Rain%20-%20Code%20Walkthrough%20PowerPoint.pptx)
+   - [Code Walkthrough Video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20Code%20Walkthrough.mp4)
 
 ## Usage
 - Players tap the fruit corresponding to their guess for a given question.
@@ -61,4 +70,4 @@ Slice It is another educational game developed by the Technology Ambassadors Pro
 
 ---
 
-**Notes: Workshop does not have started code Fruit Rain CHLOE VEDRINE | JUSTIN PORTILLO | DION DEL ROSARIO Teaching Coding with Fruit. SPRING 2023 GEORGIA GWINNET COLLEGE**
+**Notes: Workshop does not have started code Fruit Rain CHLOE VEDRINE | JUSTIN PORTILLO | DION DEL ROSARIO Teaching Coding with Fruit. SPRING 2023 GEORGIA GWINNETT COLLEGE**
