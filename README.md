@@ -43,14 +43,14 @@ The game was developed using Java with Processing as the IDE ([Processing](https
 Slice It is another educational game developed by the Technology Ambassadors Program. It aims to teach problem-solving skills and spatial awareness through slicing objects into smaller pieces. More information about Slice It can be found [here](#) (insert link).
 
 ## Project Setup/Installation
-1.IDE install
-  -[Video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20installProcessing.mp4)
-  -[PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/ProcessingPDF.pdf)
-2.Game install
-  -[Video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20runInstructions.mp4)
-  -[PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/SetupPDF.pdf)
-3.Makey Makey install (Oprional)
-  -[Video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Makey%20Makey%20Set%20up.mp4)
+1. **IDE install**
+  -[IDE install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20installProcessing.mp4)
+  -[IDE install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/ProcessingPDF.pdf)
+2. **Game install**
+  -[Game install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20runInstructions.mp4)
+  -[Game install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/SetupPDF.pdf)
+3. **Makey Makey install (Oprional)**
+  -[Makey Makey install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Makey%20Makey%20Set%20up.mp4)
 
 ## Usage
 - Players tap the fruit corresponding to their guess for a given question.
