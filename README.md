@@ -46,10 +46,10 @@ Slice It is another educational game developed by the Technology Ambassadors Pro
 ## Project Setup/Installation
 1. **IDE install**
    - [IDE install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20installProcessing.mp4)
-   - [IDE install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/ProcessingPDF.pdf)
+   - [IDE install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/instruction%20PDFs/ProcessingPDF.pdf)
 2. **FruitRain install**
    - [FruitRain install video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Fruit%20Rain%20-%20runInstructions.mp4)
-   - [FruitRain install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/SetupPDF.pdf)
+   - [FruitRain install PDF](https://github.com/TAP-GGC/FruitRain/blob/main/documents/instruction%20PDFs/SetupPDF.pdf)
 3. **Makey Makey install (Optional)**
    - [Video](https://github.com/TAP-GGC/FruitRain/blob/main/media/Makey%20Makey%20Set%20up.mp4)
 4. **Workshop PowerPoint**
