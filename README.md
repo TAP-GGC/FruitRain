@@ -27,7 +27,7 @@ The team behind this project consists of:
 ## Publications
 - CREATE Symposium Spring 2023 Presentation
 - STARS Poster Spring 2023 Presentation
-- Justin Portillo and Chloe Vedrine. Advisors: Wei Jin and Xin Xu. “Tangible Fruits and a Reconfigurable Game Engine for Technology Outreach”. The 37th Annual Consortium for Computing Sciences in Colleges (CCSC) Southeastern Conference, November 3 – 4, 2023,  Coastal Carolina University, Conway, SC. ![CCSC Abstract](https://github.com/TAP-GGC/FruitRain/blob/main/documents/publications/FruitRain-CCSC2023Abstract.pdf), ![Poster](https://github.com/TAP-GGC/FruitRain/blob/main/documents/publications/FruitRain-CCSC2023-Poster.pdf)     
+- Justin Portillo and Chloe Vedrine. Advisors: Wei Jin and Xin Xu. “Tangible Fruits and a Reconfigurable Game Engine for Technology Outreach”. The 37th Annual Consortium for Computing Sciences in Colleges (CCSC) Southeastern Conference, November 3 – 4, 2023,  Coastal Carolina University, Conway, SC. [CCSC Abstract](https://github.com/TAP-GGC/FruitRain/blob/main/documents/publications/FruitRain-CCSC2023Abstract.pdf), [Poster](https://github.com/TAP-GGC/FruitRain/blob/main/documents/publications/FruitRain-CCSC2023-Poster.pdf)     
  
 
 ## Outreach Activities
